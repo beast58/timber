@@ -1,7 +1,7 @@
 <xml>
   <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
+    <title>Timber</title>
+    <link>https://raw.githubusercontent.com/beast58/timber/master/timber.xml</link>
   </dir>
 
   <dir>
